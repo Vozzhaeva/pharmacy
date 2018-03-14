@@ -6,12 +6,12 @@
 через Web-интерфейс, представленный в виде JSP-страниц.
 
 Технологии:
-	- Java;
-	- JSP;
-	- Servlet;
-	- JDBC;
-	- Tomcat;
-	- IntelliJIDEA;
-	- PostgreSQL;
-	- Maven;
-	- HTML,CSS.
+- Java;
+- JSP;
+- Servlet;
+- JDBC;
+- Tomcat;
+- IntelliJIDEA;
+- PostgreSQL;
+- Maven;
+- HTML,CSS.
